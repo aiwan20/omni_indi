@@ -1,0 +1,147 @@
+{
+    "name": "data input",
+    "children": [
+     {
+      "name": "data portal",
+      "children": [
+       {
+        "name": "text",
+        "children": [
+         {
+             "name": "table", 
+             "size": 3938,
+             "children": [
+                 {"name": "health data", "size": 4500},
+                 {"name": "user-generated data", "size": 4500},
+                 {"name": "environmental data", "size": 4500}
+             ]
+         },
+         {
+             "name": "paragraph", 
+             "size": 3812,
+             "children": [
+                {"name": "health data", "size": 4500},
+                {"name": "user-generated data", "size": 4500},
+                {"name": "environmental data", "size": 4500}
+             ]
+        }
+        ]
+       },
+       {
+        "name": "2d image",
+        "children": [
+         {
+             "name": "chart", 
+             "size": 3534,
+             "children": [
+                {"name": "health data", "size": 4500},
+                {"name": "user-generated data", "size": 4500},
+                {"name": "environmental data", "size": 4500}
+             ]
+         },
+         {
+             "name": "photo", 
+             "size": 5731,
+             "children": [
+                {"name": "health data", "size": 4500},
+                {"name": "user-generated data", "size": 4500},
+                {"name": "environmental data", "size": 4500}
+             ]
+          },
+          {
+             "name": "x-rays", 
+             "size": 7840,
+             "children": [
+                {"name": "health data", "size": 4500},
+                {"name": "user-generated data", "size": 4500},
+                {"name": "environmental data", "size": 4500}
+             ]
+           }
+        ]
+       },
+       {
+        "name": "3d model",
+        "children": [
+         {
+             "name": "digital construction", 
+             "size": 7074,
+             "children":[
+                {"name": "health data", "size": 4500},
+                {"name": "user-generated data", "size": 4500},
+                {"name": "environmental data", "size": 4500}
+             ]
+            }
+        ]
+       },
+       {
+        "name": "audio",
+        "children": [
+            {
+             "name": "voice", 
+             "size": 7074,
+             "children":[
+                {"name": "health data", "size": 4500},
+                {"name": "user-generated data", "size": 4500},
+                {"name": "environmental data", "size": 4500}
+             ]
+            },
+            {
+             "name": "bodily functions", 
+             "size": 7074,
+             "children":[
+                   {"name": "health data", "size": 4500},
+                   {"name": "user-generated data", "size": 4500},
+                   {"name": "environmental data", "size": 4500}
+             ]
+           }
+        ]
+       },
+       {
+        "name": "video",
+        "children": [
+         {
+             "name": "people", 
+             "size": 7074,
+             "children":[
+                {"name": "health data", "size": 4500},
+                {"name": "user-generated data", "size": 4500},
+                {"name": "environmental data", "size": 4500}
+              ]
+            },
+            {
+                "name": "biological", 
+                "size": 7074,
+                "children":[
+                   {"name": "health data", "size": 4500},
+                   {"name": "user-generated data", "size": 4500},
+                   {"name": "environmental data", "size": 4500}
+              ]
+            },
+            {
+                "name": "simulations", 
+                "size": 7074,
+                "children":[
+                   {"name": "health data", "size": 4500},
+                   {"name": "user-generated data", "size": 4500},
+                   {"name": "environmental data", "size": 4500}
+                ]
+               }
+        ]
+       },
+       {
+        "name": "VR/AR",
+        "children": [
+         {
+             "name": "recording", 
+             "size": 3938,
+             "children": [
+                 {"name": "health data", "size": 4500},
+                 {"name": "user-generated data", "size": 4500},
+                 {"name": "environmental data", "size": 4500}
+             ]
+         }
+      ]
+     }
+    ]
+   }
+]}
